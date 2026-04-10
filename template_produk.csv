@@ -1,0 +1,5 @@
+barcode,nama,kategori,harga_beli,harga_jual,stok,satuan
+8991234567,Kertas A4 80gr,Produk,55000,65000,10,Box
+8991234568,Pulpen Standard Black,Produk,1500,2500,50,Pcs
+JS001,Print Warna A4,Jasa,0,2000,0,Lembar
+JS002,Jilid Spiral,Jasa,5000,15000,0,Buku
